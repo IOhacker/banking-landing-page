@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "title": "FLEXCORE | Finance for everything ahead",
+    "description": "Flexcore: credit, savings, and investment options for what's next. Demo experience for a testing environment only."
+  },
+  "language": {
+    "label": "Language",
+    "spanish": "Español (México)",
+    "english": "English",
+    "spanishShort": "ES",
+    "englishShort": "EN",
+    "changeToSpanish": "Switch to Mexican Spanish",
+    "changeToEnglish": "Switch to English"
+  },
+  "a11y": {
+    "brandHome": "Flexcore, go to home",
+    "primaryNavigation": "Primary navigation",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "closeEnrollment": "Close registration",
+    "productOfInterest": "Product of interest",
+    "exploreSolutions": "Explore solutions",
+    "productPreview": "{{product}} preview",
+    "discoverProduct": "Learn about {{product}}",
+    "previousMessage": "Previous message",
+    "nextMessage": "Next message",
+    "aboutFlexcore": "About Flexcore"
+  },
+  "testingBar": {
+    "primary": "DEMO SITE · TESTING ENVIRONMENT ONLY",
+    "secondary": "· Not a real financial offer"
+  },
+  "nav": {
+    "solutions": "Solutions",
+    "whyFlexcore": "Why Flexcore",
+    "faq": "FAQ",
+    "startNow": "Get started"
+  },
+  "hero": {
+    "eyebrow": "CREDIT · SAVINGS · INVESTING",
+    "titleLineOne": "Your next step",
+    "titleLineTwo": "starts here.",
+    "subtitle": "There's a lot ahead. Find financial options to build it your way.",
+    "primaryCta": "Explore your options",
+    "secondaryCta": "Learn more"
+  },
+  "trust": {
+    "kicker": "SUPPORT TO MOVE FORWARD",
+    "statementLead": "A more human view of your finances.",
+    "statementRest": "Flexcore is a Mexican SOFIPO authorized and supervised by the CNBV."
+  },
+  "products": {
+    "credit": {
+      "label": "Credit",
+      "title": "Power what can't wait.",
+      "description": "Explore financing options designed for your personal projects or to help your business grow.",
+      "detail": "An option for your next step"
+    },
+    "savings": {
+      "label": "Savings",
+      "title": "Make room for your big plans.",
+      "description": "Build your savings habit with a financial option that supports your goals at your own pace.",
+      "detail": "Small steps, big possibilities"
+    },
+    "investment": {
+      "label": "Investing",
+      "title": "Give direction to what you've built.",
+      "description": "Explore investment options that put your money to work around your goals and time horizon.",
+      "detail": "Think about everything ahead"
+    }
+  },
+  "solutions": {
+    "kicker": "WHAT MOVES YOU",
+    "title": "A world of possibilities.",
+    "titleAccent": "Choose where to begin.",
+    "sideCopy": "Your plans are unique. Your financial path can be, too.",
+    "discoverMore": "Discover more"
+  },
+  "showcase": {
+    "kicker": "MADE FOR YOUR PLANS",
+    "title": "What comes next,",
+    "titleAccent": "is built today.",
+    "intro": "Discover different ways to move your ideas forward—an experience designed around what matters most.",
+    "exploreProduct": "Explore {{product}}",
+    "preview": "PREVIEW",
+    "nextStep": "YOUR NEXT STEP",
+    "cardFooter": "At your pace, in your way",
+    "caption": "Conceptual representation of the journey. This is not an active banking platform."
+  },
+  "benefits": {
+    "kicker": "BEYOND THE NUMBERS",
+    "titleLineOne": "More clarity.",
+    "titleLineTwo": "More confidence.",
+    "titleAccent": "More ahead.",
+    "lead": "Because making decisions about your money should feel like moving forward—not getting tangled up.",
+    "items": [
+      {
+        "title": "Options for different goals",
+        "description": "From a project you're starting to a future you're building."
+      },
+      {
+        "title": "Trust that matters",
+        "description": "A Mexican institution operating within the regulated financial framework."
+      },
+      {
+        "title": "Your path, at your pace",
+        "description": "Explore the possibilities and find the one that makes sense for you."
+      }
+    ]
+  },
+  "testimonials": {
+    "kicker": "THE FUTURE IS IMAGINED FIRST",
+    "heading": "Ideas for a financial future",
+    "disclaimer": "Illustrative messages for this test experience; these are not customer testimonials.",
+    "items": [
+      {
+        "quote": "An important project deserves a clear, friendly, uncomplicated conversation.",
+        "context": "Imagine moving forward with greater clarity"
+      },
+      {
+        "quote": "When you have a plan for your money, the future doesn't feel so far away.",
+        "context": "Imagine saving with a purpose"
+      },
+      {
+        "quote": "The best decisions begin when you understand all your possibilities.",
+        "context": "Imagine choosing with confidence"
+      }
+    ]
+  },
+  "conditions": {
+    "kicker": "TRANSPARENCY FIRST",
+    "titleLineOne": "No fine print",
+    "titleLineTwo": "in this conversation.",
+    "lead": "Every person and every goal is different. Before deciding, review each product's current terms through official channels.",
+    "officialSite": "Visit the official site",
+    "productHeader": "PRODUCT",
+    "informationHeader": "INFORMATION",
+    "terms": "Review current terms",
+    "note": "This demo does not display rates, returns, total annual cost (CAT), fees, or approvals. Always review the official product information and applicable agreement."
+  },
+  "faq": {
+    "kicker": "GOOD TO KNOW",
+    "title": "Clear questions.",
+    "titleAccent": "Clear answers, too.",
+    "sideCopy": "What matters is having the information you need to choose well.",
+    "items": [
+      {
+        "question": "What is Flexcore?",
+        "answer": "Flexcore is a Mexican Popular Financial Company (SOFIPO) focused on credit, savings, and investment options. This page is only a demo experience and does not replace the information on the official website."
+      },
+      {
+        "question": "Can I sign up for a product on this page?",
+        "answer": "No. This site is a testing environment. The enrollment journey is a simulation: it does not submit information, open accounts, or create credit or investment applications."
+      },
+      {
+        "question": "Where can I review rates, costs, and requirements?",
+        "answer": "Terms depend on the product and the corresponding evaluation. For current information about requirements, rates, fees, and legal documents, visit Flexcore's official website."
+      },
+      {
+        "question": "Is my information saved when I try the enrollment flow?",
+        "answer": "No. Information entered in this demo is used only to display the journey in your browser. It is not stored or sent to any server."
+      }
+    ]
+  },
+  "cta": {
+    "kicker": "YOUR NEXT CHAPTER",
+    "title": "The future won't wait.",
+    "titleAccent": "You don't have to, either.",
+    "copy": "Take the first step and discover which possibility connects with you.",
+    "button": "Start the journey",
+    "footnote": "Demo journey. No real application will be submitted."
+  },
+  "footer": {
+    "tagline": "Finance for everything ahead.",
+    "exploreHeading": "EXPLORE",
+    "solutions": "Solutions",
+    "about": "About us",
+    "faq": "FAQ",
+    "linksHeading": "LINKS",
+    "officialSite": "Official site",
+    "legalInformation": "Legal information",
+    "demoConcept": "© {{year}} FLEXCORE. Demo concept.",
+    "testingNotice": "Testing environment only. This is not the official website, does not offer products, and does not collect data."
+  },
+  "enrollment": {
+    "testRegistration": "TEST REGISTRATION",
+    "step": "{{current}} / {{total}}",
+    "chooseTitle": "What would you like to do?",
+    "chooseIntro": "Choose what best fits your plans. You can change it later.",
+    "continue": "Continue",
+    "back": "Back",
+    "detailsTitle": "Let's make it personal.",
+    "detailsIntro": "Complete these details to preview the process. They won't be sent anywhere.",
+    "nameLabel": "Full name",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Email address",
+    "emailPlaceholder": "name@example.com",
+    "phoneLabel": "Mobile phone",
+    "phonePlaceholder": "10 digits",
+    "consent": "I understand that this is a testing environment and no real application will be submitted.",
+    "finish": "Finish preview",
+    "completed": "JOURNEY COMPLETED",
+    "successTitle": "That's how simple it could begin.",
+    "successMessage": "Thanks{{name}}. You explored the {{product}} journey in this demo.",
+    "successNote": "This was only a test. Your information was not saved or sent.",
+    "backToSite": "Back to site",
+    "disclaimer": "Testing environment only. This is not an offer or an application for financial products."
+  }
+}

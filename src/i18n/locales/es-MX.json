@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "title": "FLEXCORE | Finanzas para todo lo que viene",
+    "description": "Flexcore: crédito, ahorro e inversión para todo lo que viene. Experiencia de demostración para entorno de pruebas."
+  },
+  "language": {
+    "label": "Idioma",
+    "spanish": "Español (México)",
+    "english": "English",
+    "spanishShort": "ES",
+    "englishShort": "EN",
+    "changeToSpanish": "Cambiar a español de México",
+    "changeToEnglish": "Cambiar a inglés"
+  },
+  "a11y": {
+    "brandHome": "Flexcore, ir al inicio",
+    "primaryNavigation": "Navegación principal",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "closeEnrollment": "Cerrar registro",
+    "productOfInterest": "Producto de interés",
+    "exploreSolutions": "Explorar soluciones",
+    "productPreview": "Vista previa de {{product}}",
+    "discoverProduct": "Conocer {{product}}",
+    "previousMessage": "Mensaje anterior",
+    "nextMessage": "Mensaje siguiente",
+    "aboutFlexcore": "Acerca de Flexcore"
+  },
+  "testingBar": {
+    "primary": "SITIO DEMOSTRATIVO · SOLO PARA ENTORNO DE PRUEBAS",
+    "secondary": "· No es una oferta financiera real"
+  },
+  "nav": {
+    "solutions": "Soluciones",
+    "whyFlexcore": "Por qué Flexcore",
+    "faq": "Preguntas frecuentes",
+    "startNow": "Comenzar ahora"
+  },
+  "hero": {
+    "eyebrow": "CRÉDITO · AHORRO · INVERSIÓN",
+    "titleLineOne": "Tu siguiente paso",
+    "titleLineTwo": "empieza aquí.",
+    "subtitle": "Hay mucho por delante. Encuentra opciones financieras para construirlo a tu manera.",
+    "primaryCta": "Explora tus opciones",
+    "secondaryCta": "Conoce más"
+  },
+  "trust": {
+    "kicker": "RESPALDO PARA AVANZAR",
+    "statementLead": "Una visión más humana de tus finanzas.",
+    "statementRest": "Flexcore es una Sociedad Financiera Popular mexicana autorizada y supervisada por la CNBV."
+  },
+  "products": {
+    "credit": {
+      "label": "Crédito",
+      "title": "Impulsa eso que no puede esperar.",
+      "description": "Explora alternativas de financiamiento pensadas para tus proyectos personales o para hacer crecer tu negocio.",
+      "detail": "Una opción para dar el siguiente paso"
+    },
+    "savings": {
+      "label": "Ahorro",
+      "title": "Haz espacio para tus grandes planes.",
+      "description": "Construye el hábito de ahorrar con una opción financiera que acompaña tus objetivos, a tu propio ritmo.",
+      "detail": "Pequeños pasos, grandes posibilidades"
+    },
+    "investment": {
+      "label": "Inversión",
+      "title": "Dale dirección a lo que has construido.",
+      "description": "Conoce alternativas de inversión para poner tu dinero a trabajar de acuerdo con tus metas y horizonte.",
+      "detail": "Piensa en todo lo que viene"
+    }
+  },
+  "solutions": {
+    "kicker": "LO QUE TE MUEVE",
+    "title": "Un mundo de posibilidades.",
+    "titleAccent": "Elige por dónde empezar.",
+    "sideCopy": "Tus planes son únicos. Tu camino financiero también puede serlo.",
+    "discoverMore": "Descubrir más"
+  },
+  "showcase": {
+    "kicker": "HECHO PARA TUS PLANES",
+    "title": "Lo que viene,",
+    "titleAccent": "se construye hoy.",
+    "intro": "Descubre distintas formas de darle impulso a tus ideas. Una experiencia pensada para acercarte a lo que realmente importa.",
+    "exploreProduct": "Explorar {{product}}",
+    "preview": "VISTA PREVIA",
+    "nextStep": "TU PRÓXIMO PASO",
+    "cardFooter": "A tu ritmo, a tu manera",
+    "caption": "Representación conceptual del recorrido. No es una plataforma bancaria activa."
+  },
+  "benefits": {
+    "kicker": "MÁS ALLÁ DE LOS NÚMEROS",
+    "titleLineOne": "Más claridad.",
+    "titleLineTwo": "Más confianza.",
+    "titleAccent": "Más futuro.",
+    "lead": "Porque tomar decisiones sobre tu dinero debería sentirse como avanzar, no como complicarte.",
+    "items": [
+      {
+        "title": "Opciones para distintas metas",
+        "description": "Desde un proyecto por comenzar hasta un futuro por construir."
+      },
+      {
+        "title": "Confianza que importa",
+        "description": "Una institución mexicana que opera dentro del marco financiero regulado."
+      },
+      {
+        "title": "Tu camino, a tu ritmo",
+        "description": "Conoce las posibilidades y encuentra la que hace sentido para ti."
+      }
+    ]
+  },
+  "testimonials": {
+    "kicker": "EL FUTURO SE IMAGINA PRIMERO",
+    "heading": "Ideas para un futuro financiero",
+    "disclaimer": "Mensajes ilustrativos para esta experiencia de prueba; no son testimonios de clientes.",
+    "items": [
+      {
+        "quote": "Un proyecto importante merece una conversación clara, cercana y sin complicaciones.",
+        "context": "Imagina avanzar con más claridad"
+      },
+      {
+        "quote": "Cuando tienes un plan para tu dinero, el futuro deja de sentirse tan lejano.",
+        "context": "Imagina ahorrar con un propósito"
+      },
+      {
+        "quote": "Las mejores decisiones empiezan cuando entiendes todas tus posibilidades.",
+        "context": "Imagina elegir con confianza"
+      }
+    ]
+  },
+  "conditions": {
+    "kicker": "TRANSPARENCIA ANTE TODO",
+    "titleLineOne": "Sin letra pequeña",
+    "titleLineTwo": "en esta conversación.",
+    "lead": "Cada persona y cada meta son diferentes. Antes de decidir, conoce los términos vigentes de cada producto en los canales oficiales.",
+    "officialSite": "Visitar sitio oficial",
+    "productHeader": "PRODUCTO",
+    "informationHeader": "INFORMACIÓN",
+    "terms": "Condiciones sujetas a consulta",
+    "note": "Esta demo no muestra tasas, rendimientos, CAT, costos ni aprobaciones. Consulta siempre la información oficial y el contrato aplicable."
+  },
+  "faq": {
+    "kicker": "BUENO SABERLO",
+    "title": "Preguntas claras.",
+    "titleAccent": "Respuestas también.",
+    "sideCopy": "Lo importante es que tengas la información para elegir bien.",
+    "items": [
+      {
+        "question": "¿Qué es Flexcore?",
+        "answer": "Flexcore es una Sociedad Financiera Popular (SOFIPO) mexicana enfocada en alternativas de crédito, ahorro e inversión. Esta página es únicamente una experiencia de demostración y no sustituye la información del sitio oficial."
+      },
+      {
+        "question": "¿Esta página permite contratar un producto?",
+        "answer": "No. Este sitio es un entorno de prueba. El recorrido de registro es una simulación: no envía información, no abre cuentas y no genera solicitudes de crédito o inversión."
+      },
+      {
+        "question": "¿Dónde puedo consultar tasas, costos y requisitos?",
+        "answer": "Los términos dependen del producto y de la evaluación correspondiente. Para conocer información vigente, requisitos, tasas, comisiones y documentos legales, visita el sitio oficial de Flexcore."
+      },
+      {
+        "question": "¿Mis datos se guardan al probar el registro?",
+        "answer": "No. Los datos introducidos en esta demostración solo se usan para mostrar el recorrido en tu navegador. No se almacenan ni se envían a ningún servidor."
+      }
+    ]
+  },
+  "cta": {
+    "kicker": "TU PRÓXIMO CAPÍTULO",
+    "title": "El futuro no espera.",
+    "titleAccent": "Tú tampoco tienes que hacerlo.",
+    "copy": "Da el primer paso y descubre qué posibilidad conecta contigo.",
+    "button": "Comenzar recorrido",
+    "footnote": "Recorrido de demostración. No se realiza ninguna solicitud real."
+  },
+  "footer": {
+    "tagline": "Finanzas para todo lo que viene.",
+    "exploreHeading": "EXPLORA",
+    "solutions": "Soluciones",
+    "about": "Nosotros",
+    "faq": "Preguntas frecuentes",
+    "linksHeading": "ENLACES",
+    "officialSite": "Sitio oficial",
+    "legalInformation": "Información legal",
+    "demoConcept": "© {{year}} FLEXCORE. Concepto de demostración.",
+    "testingNotice": "Solo para entorno de pruebas. Este sitio no es el sitio oficial, no ofrece productos ni recopila datos."
+  },
+  "enrollment": {
+    "testRegistration": "REGISTRO DE PRUEBA",
+    "step": "{{current}} / {{total}}",
+    "chooseTitle": "¿Qué te gustaría hacer?",
+    "chooseIntro": "Elige lo que mejor conecta con tus planes. Puedes cambiarlo después.",
+    "continue": "Continuar",
+    "back": "Volver",
+    "detailsTitle": "Hagámoslo personal.",
+    "detailsIntro": "Completa estos datos para ver cómo sería el proceso. No se enviarán a ningún lugar.",
+    "nameLabel": "Nombre completo",
+    "namePlaceholder": "Tu nombre",
+    "emailLabel": "Correo electrónico",
+    "emailPlaceholder": "nombre@ejemplo.com",
+    "phoneLabel": "Teléfono celular",
+    "phonePlaceholder": "10 dígitos",
+    "consent": "Entiendo que este es un entorno de prueba y que no se realizará ninguna solicitud real.",
+    "finish": "Terminar recorrido",
+    "completed": "RECORRIDO COMPLETADO",
+    "successTitle": "Así de simple podría comenzar.",
+    "successMessage": "Gracias{{name}}. Exploraste el recorrido de {{product}} en esta demostración.",
+    "successNote": "Esto fue solo una prueba. Tus datos no se guardaron ni enviaron.",
+    "backToSite": "Volver al sitio",
+    "disclaimer": "Solo para entorno de pruebas. No es una oferta ni contratación de productos financieros."
+  }
+}
